@@ -1,5 +1,5 @@
 /* TapeEquilibrium
-  	- Time: 12min
+    - Time: 12min
     - Score 100% (100% correct, 100% performance)
     - Detected Time Complexity: O(N)
 */

@@ -1,5 +1,5 @@
 /* PermMissingElem
-  	- Time: 6min
+    - Time: 6min
     - Score 100% (100% correct, 100% performance)
     - Detected Time Complexity: O(N) or O(N * log(N))
 */

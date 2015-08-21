@@ -1,5 +1,5 @@
 /* FrogJmp
-  	- Time: 4min
+    - Time: 4min
     - Score 100% (100% correct, 100% performance)
     - Detected Time Complexity: O(1)
 */

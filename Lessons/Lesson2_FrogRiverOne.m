@@ -1,5 +1,5 @@
 /* FrogRiverOne
-  	- Time: 22min
+    - Time: 22min
     - Score 100% (100% correct, 100% performance)
     - Detected Time Complexity: O(N)
 */
